@@ -37,7 +37,3 @@ Provided as examples to understand the running of the code.
 The proposed algorithms were run on Dell Precision T7610 having Intel Xeon CPU E5-2620 v2 $@$ 2.10 GHz X17 and NVIDIA Tesla K40 graphics processing unit (GPU) running ubuntu 12.04 LTS, 32 GB RAM, and 1.5 TB HDD. 
 
 
-***Please cite***
-Gupta, Shikha, Sheetal Taneja, and Naveen Kumar. "Quantum inspired genetic algorithm for community structure detection in social networks." Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation. ACM, 2014.
-
-Gupta, Shikha, and Naveen Kumar. "Parameter tuning in quantum-inspired evolutionary algorithms for partitioning complex networks." Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation. ACM, 2014.
